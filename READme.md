@@ -7,3 +7,7 @@ this is my first repo here
 Watch tutorial on youtube
 
 thank you 
+
+## local developer
+
+1- open index.html in browser
